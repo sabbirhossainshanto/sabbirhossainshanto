@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sabbir</h1>
 <h3 align="center">A passionate frontend developer from Naogoan,Bangladesh</h3>
 
