@@ -4,7 +4,7 @@
  
 <img width="100%" src="https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/banner.jpg" alt="cover" />
 </div>
-<h1 align="center">Hi 👋, I'm Sabbir</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/hi.gif" width="50px" height="50px">, I'm Sabbir</h1>  
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirjiinat&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirjiinat" /> </p>
