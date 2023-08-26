@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yQZeKp6OZU2YYkmLktL8XafmziNxkiJa/view?usp=sharing](https://drive.google.com/file/d/1yQZeKp6OZU2YYkmLktL8XafmziNxkiJa/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 <p align="left">
 <a href="https://linkedin.com/in/sabbir-hosssain-shanto-bb0a55287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir-hosssain-shanto-bb0a55287/" height="30" width="40" /></a>
 <a href="https://fb.com/sabbirhossen.santo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbirhossen.santo/" height="30" width="40" /></a>
