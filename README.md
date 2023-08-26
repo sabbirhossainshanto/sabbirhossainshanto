@@ -19,7 +19,7 @@
 
 - 📫 Rech me at **sabbirshnt@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yQZeKp6OZU2YYkmLktL8XafmziNxkiJa/view?usp=sharing" target="blank"><h2 width="50px" height="50px">Resume<h2></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yQZeKp6OZU2YYkmLktL8XafmziNxkiJa/view?usp=sharing" target="blank">Resume</a>
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 <p align="left">
