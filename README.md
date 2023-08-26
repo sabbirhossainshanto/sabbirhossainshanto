@@ -1,3 +1,9 @@
+
+<div align="center">
+ 
+ 
+<img width="100%" src="https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/banner.jpg" alt="cover" />
+</div>
 <h1 align="center">Hi 👋, I'm Sabbir</h1>
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 
