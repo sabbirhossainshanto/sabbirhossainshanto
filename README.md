@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Redux, Next.js.**
 
-- 👨‍💻 All of my projects are available at [https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://sabbir-portfolio.netlify.app/)
 
 - 💬 Talk me about **React, JavaScript.**
 
