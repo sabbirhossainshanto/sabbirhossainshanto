@@ -4,6 +4,11 @@
  
 <img width="100%" src="https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/banner.jpg" alt="cover" />
 </div>
+
+## :chart_with_upwards_trend: Current Stats
+
+<p align="center"><img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sabbirhossainshanto&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF"" alt="GitHub Streak" /></p>
+
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/hi.gif" width="50px" height="50px">, I'm Sabbir</h1>  
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 
