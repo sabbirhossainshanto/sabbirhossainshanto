@@ -33,6 +33,7 @@
 <p align="center">
  <img title="Tailwind" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/tailwind.png"/>
  <img title="My SQL" height="50" width="50" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/mysql.png"/>
+  <img title="PostgreSQL" height="50" width="50" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/postgre.png"/>
 <img title="Prisma" height="50" width="50" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/prism.png"/>
 <img title="BootStrap" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/Bootsrap.png"/>
 <img title="Firebase" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/firebase.png"/>
