@@ -24,12 +24,13 @@
 <img title="JavaScript" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/JavaScript.png"/>
  <img title="React" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/react.png"/>
 <img title="Redux" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/redux.png"/>
-</p>
-<p align="center">
-<img title="Node Js" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/node.png"/>
+ <img title="Node Js" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/node.png"/>
 <img title="Express" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/express.png"/>
 <img title="MongoDB" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/mongo.png"/>
 <img title="Tailwind" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/tailwind.png"/>
+</p>
+<p align="center">
+
 <img title="BootStrap" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/Bootsrap.png"/>
 <img title="Firebase" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/firebase.png"/>
 </p>
