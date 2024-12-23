@@ -21,19 +21,19 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/HTML.png"/>
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/css.png"/>
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/JavaScript.png"/>
- <img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/react.png"/>
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/redux.png"/>
+<img title="HTML" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/HTML.png"/>
+<img title="CSS" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/css.png"/>
+<img title="JavaScript" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/JavaScript.png"/>
+ <img title="React" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/react.png"/>
+<img title="Redux" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/redux.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/node.png"/>
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/express.png"/>
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/mongo.png"/>
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/tailwind.png"/>
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/Bootsrap.png"/>
-<img src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/main/images/firebase.png"/>
+<img title="Node Js" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/node.png"/>
+<img title="Express" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/express.png"/>
+<img title="MongoDB" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/mongo.png"/>
+<img title="Tailwind" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/tailwind.png"/>
+<img title="BootStrap" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/Bootsrap.png"/>
+<img title="Firebase" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/firebase.png"/>
 </p>
 <br/>
 
