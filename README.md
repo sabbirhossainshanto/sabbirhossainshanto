@@ -53,8 +53,8 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yQZeKp6OZU2YYkmLktL8XafmziNxkiJa/view?usp=sharing" target="blank">Resume</a>
  
-<a href="https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/wave.svg">
- <img width="100%" height="100%" target="_blank" rel="noreferrer" src="https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/wave.svg" alt="cover" />
+<a href="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/wave.svg">
+ <img width="100%" height="100%" target="_blank" rel="noreferrer" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/wave.svg" alt="cover" />
 
 </a>
 </p>
