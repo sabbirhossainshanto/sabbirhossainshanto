@@ -1,8 +1,6 @@
-
+ <p>Hi <img src = "https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/hi.gif" width="30px" height="30px">, I'm Sabbir</p>  
 <div align="center">
- 
- 
-<img width="100%" src="https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/images/banner.jpg" alt="cover" />
+<img width="100%" src="https://github.com/sabbirhossainshanto/sabbirhossainshanto/blob/main/images/banner.jpg" alt="cover" />
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -11,13 +9,13 @@
 
 
 
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
+<h2>Reach Me Out <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 <p align="left">
 <a href="https://linkedin.com/in/sabbir-hosssain-shanto-bb0a55287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir-hosssain-shanto-bb0a55287/" height="30" width="40" /></a>
 <a href="https://fb.com/sabbirhossen.santo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbirhossen.santo/" height="30" width="40" /></a>
 </p>
 
-<h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<h2>Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
 <br>
 <p align="center">
@@ -38,8 +36,7 @@
 <br/>
 
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/sabbirjiinat/sabbirjiinat/main/hi.gif" width="50px" height="50px">, I'm Sabbir</h1>  
-<h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirjiinat&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirjiinat" /> </p>
 
